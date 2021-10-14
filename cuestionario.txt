@@ -1,0 +1,23 @@
+Enrique Martinez Botello  Guillermo Alberto Olmos Arias
+En tus palabras, ¿Que es internet?
+
+Describe los medios fisicos y de propagacion de ondas por los que se transmite la informacion en internet
+
+¿Como se organiza internet? Habla de las direcciones IP y los DNS.
+
+Describe el procedimiento por el cual una cancion de Spotify llega del servidor de la compañia a tu celular
+
+Describe los protocolos que existen en internet, en especifico HTTP y HTML:
+*acceso a una pagina Web* Tienes que hacer una petición POST, Con unos datos adjuntos.Tiene tu dirección de correo electrónico y contraseña se va al servidor.El servidor comprueba que sean validos los datos.Envia una pagina web de vuelta a tu navegador que afirma que eres tu pero junto con esta pagina web tambien adjunta cookies invisibles que tu navegador ve y sabe guardar y esto es importante porque es el único modo de que el sitio web pueda recordar quien eres.Cookie realmente es un documento de identidad *numero* y la próxima vez que actualices la pagina tu navegador sabe adjuntar automáticamente ese numero de identificacion con la peticion.Secure Sockets Layer y Transport Layer Security se activan por seguridad  con el simbolo del candado pero se necesita un certificado digital que son publicados por autoridades certificadas.
+html:es un lenguaje usado en paginas web en el por decir un ejemplo para iniciar sesión se le da la orden de GET/login que le dice al servidor que quieres el codigo HTML de la pagina de acceso. 
+
+En dos parrafos cuentanos lo que aprendiste sobre encripptacion y llaves publicas
+Llaves publicas:Cualquiera puede usarla para crear mensajes secretos pero solo puede ser descifrado por una computadora con acceso a la Llave Privada
+
+Encriptación:Contraseña  en numeración desde los romanos de Julio Cesar.
+
+En dos parrafos cuentanos lo que aprendiste sobre como protegerte de los criminales en internet: Por medios de virus que es un programa ejecutable que se instala usualmente sin intención y daña al usuario y a su computadora es posible que el virus se propague a otras computadoras no debemos de caer en estafas como un Mail preguntando que registremos con nuestra cuenta,etc.
+
+Debemos de usar sitios seguros que protejan nuestra información con SSLT y TLS.Asi estaremos mas seguros al proteger nuestra información. 
+
+¿Como funciona la busqueeda de google? Lo primero es que el buscador en realidad no va a Internet para hacer tu búsqueda en tiempo real y eso es porque hay mas de mil millones de paginas en internet y cientos mas estan siendo creadas a cada minuto si el buscador tuviera que buscar en cada sitio para encontrar el que tu quieres tomaria para siempre pero para hacer tu busqueda mas rapida los buscadores estan explorando constantemente la información que pueda ayudar con tu búsqueda. Es como una telaraña de paginas conectadas a través de hipervínculos los buscadores constantemente corren un programa llamado “araña”,que camina a través de estas paginas para recolectar información sobre ellas, cada vez que encuentra un hipervínculo lo sigue hasta que haya visitado cada página que pueda encontrar en toda la internet.Por cada pagina que visita la “araña” graba la informacion que pudiera necesitar para una busqueda,pero le añade a una base de llamada indice de búsqueda.El buscador busca cada una de las palabras *Ejemplo:How long does it take to travel to mars?*en el indice de búsquedas para obtener de inmediato una lista de todas las paginas de internet que contienen esas palabras.Así que el buscador tiene que determinar cuales son los mejores resultados.
